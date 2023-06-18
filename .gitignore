@@ -1,0 +1,6 @@
+#Builds
+builds/
+
+#Packages
+./node_modules
+node_modules
